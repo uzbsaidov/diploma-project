@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # So'rovnoma Tahlil Tizimi
 ## Diplom loyihasi – Saidov Suhrob Alisherovich, TDTU 178-22
 
@@ -87,3 +88,4 @@ survey_app/
 └── templates/
     └── index.html          ← Frontend (SPA)
 ```
+
